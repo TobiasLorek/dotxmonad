@@ -1,0 +1,2 @@
+# dotxmonad
+xmonad config
